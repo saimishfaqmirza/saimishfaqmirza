@@ -100,25 +100,9 @@ Personal Projects / Freelance Practice
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saimishfaqmirza&theme=onedark" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimishfaqmirza&theme=react-dark" />
-
----
-
-## Contribution Snake
-
-<img src="https://raw.githubusercontent.com/saimishfaqmirza/saimishfaqmirza/output/github-contribution-grid-snake.svg" />
 
 ---
 
