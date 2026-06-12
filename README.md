@@ -68,8 +68,7 @@ Passionate about clean code, performance optimization, and creating user-centric
 ## Experience
 
 **Frontend Developer**  
-Personal Projects / Freelance Practice 
-2025 - Present  
+Personal Projects / Freelance Practice | 2025 - Present  
 
 - Building responsive web interfaces  
 - Developing React-based applications  
@@ -83,9 +82,9 @@ Personal Projects / Freelance Practice
 ## Achievements
 
 | Recognition | Details |
-|------------|--------|
-| GitHub Growth | Active development & learning |
-| Portfolio Development | Multiple frontend projects |
+|-------------|----------|
+| GitHub Growth | Active development and continuous learning |
+| Portfolio Development | Built multiple frontend projects |
 
 ---
 
