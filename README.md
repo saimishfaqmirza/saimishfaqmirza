@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=200&section=header&text=Saim%20Ishfaq%20Mirza&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=200&section=header&text=Saim%20Ishfaq&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Frontend+Developer;React+Developer;Aspiring+Full+Stack+Developer;Building+Modern+Web+Apps" />
 
@@ -64,16 +64,6 @@ Passionate about clean code, performance optimization, and creating user-centric
 
 ---
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|------|------------|--------|
-| AI Fundamentals | Beginner | Understanding core concepts |
-| Machine Learning | Beginner | Learning models & workflows |
-| Web + AI Integration | Intermediate | API-based AI features |
-
----
-
 ## Featured Projects
 
 <details>
@@ -83,7 +73,7 @@ Professional developer portfolio showcasing frontend expertise.
 
 | Category | Details |
 |--------|--------|
-| Stack | HTML, CSS, JavaScript, Tailwind |
+| Stack | HTML, CSS, JavaScript, Tailwind, React |
 | Scale | Personal |
 | Performance | Optimized UI |
 | Security | Standard |
@@ -97,7 +87,7 @@ Professional developer portfolio showcasing frontend expertise.
 ## Experience
 
 **Frontend Developer**  
-Self-Employed  
+Personal Projects / Freelance Practice 
 2025 - Present  
 
 - Building responsive web interfaces  
