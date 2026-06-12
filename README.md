@@ -64,26 +64,6 @@ Passionate about clean code, performance optimization, and creating user-centric
 
 ---
 
-## Featured Projects
-
-<details>
-<summary><strong>Modern Portfolio Website</strong></summary>
-
-Professional developer portfolio showcasing frontend expertise.
-
-| Category | Details |
-|--------|--------|
-| Stack | HTML, CSS, JavaScript, Tailwind, React |
-| Scale | Personal |
-| Performance | Optimized UI |
-| Security | Standard |
-| Impact | Personal branding |
-| Repository | https://github.com/saimishfaqmirza |
-
-</details>
-
----
-
 ## Experience
 
 **Frontend Developer**  
