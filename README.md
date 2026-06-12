@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Virtual%20University-Student-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Virtual%20University%20of%20Pakistan-Student-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Pakistan-4B0082?style=for-the-badge" />
 
 <br/>
