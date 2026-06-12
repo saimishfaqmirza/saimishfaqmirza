@@ -1,16 +1,173 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**saimishfaqmirza/saimishfaqmirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=200&section=header&text=Saim%20Ishfaq%20Mirza&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Frontend+Developer;React+Developer;Aspiring+Full+Stack+Developer;Building+Modern+Web+Apps" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://img.shields.io/badge/Virtual%20University-Student-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Pakistan-4B0082?style=for-the-badge" />
+
+<br/>
+
+<a href="mailto:saimishfaq.code@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/saim-ishfaq">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-4B0082?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/saimishfaqmirza">
+<img src="https://img.shields.io/badge/GitHub-Profile-6A5ACD?style=for-the-badge&logo=github"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=saimishfaqmirza&style=for-the-badge&color=6A5ACD"/>
+<img src="https://img.shields.io/github/followers/saimishfaqmirza?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/saimishfaqmirza?style=for-the-badge&color=4B0082"/>
+
+</div>
+
+---
+
+## About Me
+
+Frontend Developer focused on building modern, responsive, and high-performance web applications. Solid foundation in UI development with an expanding interest in full-stack development and scalable system design.
+
+Passionate about clean code, performance optimization, and creating user-centric digital experiences.
+
+- Specializing in **Frontend Engineering**
+- Learning **React and Modern JavaScript**
+- Building **Responsive Web Application**
+- Exploring **UI/UX Best Practices**
+- Open to **Internships & Collaborations**
+
+---
+
+## Tech Stack
+
+### Languages
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Cloud, DevOps & Tooling
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|------|------------|--------|
+| AI Fundamentals | Beginner | Understanding core concepts |
+| Machine Learning | Beginner | Learning models & workflows |
+| Web + AI Integration | Intermediate | API-based AI features |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>Modern Portfolio Website</strong></summary>
+
+Professional developer portfolio showcasing frontend expertise.
+
+| Category | Details |
+|--------|--------|
+| Stack | HTML, CSS, JavaScript, Tailwind |
+| Scale | Personal |
+| Performance | Optimized UI |
+| Security | Standard |
+| Impact | Personal branding |
+| Repository | https://github.com/saimishfaqmirza |
+
+</details>
+
+---
+
+## Experience
+
+**Frontend Developer**  
+Self-Employed  
+2025 - Present  
+
+- Building responsive web interfaces  
+- Developing React-based applications  
+- Improving UI/UX design consistency  
+- Learning full-stack integration  
+
+**Skills:** HTML, CSS, JavaScript, React, Tailwind
+
+---
+
+## Achievements
+
+| Recognition | Details |
+|------------|--------|
+| GitHub Growth | Active development & learning |
+| Portfolio Development | Multiple frontend projects |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saimishfaqmirza&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimishfaqmirza&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimishfaqmirza&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saimishfaqmirza&theme=onedark" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saimishfaqmirza&theme=react-dark" />
+
+---
+
+## Contribution Snake
+
+<img src="https://raw.githubusercontent.com/saimishfaqmirza/saimishfaqmirza/output/github-contribution-grid-snake.svg" />
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Full Stack Development
+  - AI Integration
+
+Building:
+  - Portfolio Projects
+  - React Applications
+
+Exploring:
+  - APIs
+  - Performance Optimization
+
+Open To:
+  - Internships
+  - Freelance Work
+  - Collaboration
